@@ -1,0 +1,7 @@
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\Dpm225518_LeNguyenMinhTien_pattern_06_\Optimized\Optimized\bin\Debug\Optimized.exe.config
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\Dpm225518_LeNguyenMinhTien_pattern_06_\Optimized\Optimized\bin\Debug\Optimized.exe
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\Dpm225518_LeNguyenMinhTien_pattern_06_\Optimized\Optimized\bin\Debug\Optimized.pdb
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\Dpm225518_LeNguyenMinhTien_pattern_06_\Optimized\Optimized\obj\Debug\Optimized.csproj.AssemblyReference.cache
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\Dpm225518_LeNguyenMinhTien_pattern_06_\Optimized\Optimized\obj\Debug\Optimized.csproj.CoreCompileInputs.cache
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\Dpm225518_LeNguyenMinhTien_pattern_06_\Optimized\Optimized\obj\Debug\Optimized.exe
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\Dpm225518_LeNguyenMinhTien_pattern_06_\Optimized\Optimized\obj\Debug\Optimized.pdb

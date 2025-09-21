@@ -1,0 +1,7 @@
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\Dpm225518_LeNguyenMinhTien_pattern_06_\Pattern\Pattern\bin\Debug\Pattern.exe.config
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\Dpm225518_LeNguyenMinhTien_pattern_06_\Pattern\Pattern\bin\Debug\Pattern.exe
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\Dpm225518_LeNguyenMinhTien_pattern_06_\Pattern\Pattern\bin\Debug\Pattern.pdb
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\Dpm225518_LeNguyenMinhTien_pattern_06_\Pattern\Pattern\obj\Debug\Pattern.csproj.AssemblyReference.cache
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\Dpm225518_LeNguyenMinhTien_pattern_06_\Pattern\Pattern\obj\Debug\Pattern.csproj.CoreCompileInputs.cache
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\Dpm225518_LeNguyenMinhTien_pattern_06_\Pattern\Pattern\obj\Debug\Pattern.exe
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\Dpm225518_LeNguyenMinhTien_pattern_06_\Pattern\Pattern\obj\Debug\Pattern.pdb
